@@ -1,4 +1,4 @@
-# female-daily-product-scraping# Female Daily Product Scraping
+# Female Daily Product Scraping
 
 A Python-based web scraping project focused on collecting, cleaning, and storing beauty product data from Female Daily using Python, Pandas, and PostgreSQL.
 
