@@ -73,54 +73,13 @@ The `products` table uses a foreign key to establish its relationship with the `
 
 ### Entity Relationship Diagram
 
-![Female Daily Database ERD](images/ERD_P0M1_Muhammad_rifqi.jpg)
-
-## 📁 Repository Structure
-
-```text
-female-daily-product-scraping/
-├── README.md
-├── coda_P0M1_Muhammad_rifqi.ipynb
-├── coda_P0M1_Muhammad_rifqi.sql
-├── female_daily_clean.csv
-├── data/
-│   └── female_daily_datakotor.csv
-└── images/
-    └── ERD_P0M1_Muhammad_rifqi.jpg
-```
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python
-- Jupyter Notebook
-- PostgreSQL
-- pgAdmin
-- Required Python libraries for scraping and data processing
-
-### Running the Project
-
-1. Clone this repository.
-2. Install the required Python libraries.
-3. Open the Jupyter Notebook and run the cells to explore the scraping and data cleaning process.
-4. Create or select a PostgreSQL database in pgAdmin.
-5. Update the CSV file path in the SQL script to match your local environment.
-6. Execute the SQL script to create the staging and normalized tables and load the data.
-
-## 📚 Key Learnings
-
-- Web scraping with Python.
-- Data exploration and cleaning with Pandas.
-- Working with numerical data types.
-- SQL table creation and data loading.
-- Relational database design and normalization.
+<img width="567" height="557" alt="ERD_Muhammad_rifqi" src="https://github.com/user-attachments/assets/fffe365a-7c62-4dd7-a698-480b00ece974" />
 
 ## 👤 Author
 
 **Muhammad Rifqi Sahib**
 
-GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: B1ass
 
 ---
 
