@@ -4,7 +4,7 @@ A Python-based web scraping project focused on collecting, cleaning, and storing
 
 ## 📌 Project Overview
 
-This project was developed as part of the Comprehensive Data Analytics Program to practice web scraping, data preprocessing, and relational database management.
+This project was developed as part of the Comprehensive Data Analytics Program From Hacktiv8 to practice web scraping, data preprocessing, and relational database management.
 
 The project collects beauty product information from Female Daily, processes the extracted data into a structured format, and stores it in PostgreSQL. The database is organized into normalized tables to reduce data redundancy and establish relationships between products and brands.
 
